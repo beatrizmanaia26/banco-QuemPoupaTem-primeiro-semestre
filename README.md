@@ -1,5 +1,5 @@
 # Banco-QuemPoupaTem-primeiro-semestre-
-Eu e minha amiga @luanabortko2004 realizamos esse código de um banco na matéria de Fundamentos de Algoritmo no primeiro semestre da faculdade FEI. 
+Eu e minha amiga [Luana Bortko Rodrigues](https://github.com/LuaBortko) realizamos esse código de um banco na matéria de Fundamentos de Algoritmo no primeiro semestre da faculdade FEI. 
 Ao rodar o código “parte5” aparecerá 9 opções:  
   ![image](https://github.com/beatrizmanaia26/Banco-QuemPoupaTem-primeiro-semestre-/assets/130764598/ed6e2a2e-987c-48f1-ad6d-b276e3031a5d)
 
